@@ -1,6 +1,6 @@
 # 🚀 DuckRay Free VPN - Daily Keys
 
-**Updated:** `2026-02-21 14:49:11 UTC`
+**Updated:** `2026-02-22 21:00:00 UTC`
 
 Join our [Telegram Channel](https://t.me/duckray) for updates!
 
@@ -11,12 +11,12 @@ Copy and paste these into your VPN client:
 
 ### 🇫🇷 France 🐓
 ```
-vless://ecd83a24-555f-4f98-8648-521c56dd6fe6@es-01.duckray.cv:443?security=reality&type=grpc&headerType=&authority=&serviceName=gun-or-multi&flow=&mode=multi&sni=api.github.com&fp=chrome&pbk=0vFAS6VoMwjNIdKHk4_wcAgCaz-NWScSxJLSpqguFzc&sid=aabbcc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%F0%9F%90%93
+vless://7821c6f7-da54-4898-b92f-dec40e36a0b0@es-01.duckray.cv:443?security=reality&type=grpc&headerType=&authority=&serviceName=gun-or-multi&flow=&mode=multi&sni=api.github.com&fp=chrome&pbk=0vFAS6VoMwjNIdKHk4_wcAgCaz-NWScSxJLSpqguFzc&sid=aabbcc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%F0%9F%90%93
 ```
 
 ### 🇫🇮 Finland
 ```
-vless://ecd83a24-555f-4f98-8648-521c56dd6fe6@fi-24.duckray.cv:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=fi-24.duckray.cv&fp=&pbk=ZSSiuPWQqg851_7UNMdb2U47Vb9ueb8SJIbNGVZz_VQ&sid=8badf00d5eadbeef#%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://7821c6f7-da54-4898-b92f-dec40e36a0b0@fi-24.duckray.cv:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=fi-24.duckray.cv&fp=&pbk=ZSSiuPWQqg851_7UNMdb2U47Vb9ueb8SJIbNGVZz_VQ&sid=8badf00d5eadbeef#%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
 ```
 
 
