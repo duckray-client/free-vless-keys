@@ -1,6 +1,6 @@
 # 🚀 DuckRay Free VPN — Daily Keys
 
-**Updated:** `2026-05-20 03:49:58 UTC`
+**Updated:** `2026-05-21 20:27:27 UTC`
 
 Visit [DuckRay](https://duckray.cc) for the personal cabinet.
 
@@ -12,7 +12,7 @@ Copy any of the lines below into your VPN client:
 
 ### 🇫🇷 France
 ```
-vless://8ee25118-e1fd-4662-8778-0c2ca5d3d7e0@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://45f5fabf-1656-467c-997a-2f1592ca3f14@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#%F0%9F%87%AB%F0%9F%87%B7%20France
 ```
 
 
